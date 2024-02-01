@@ -1,0 +1,55 @@
+.border{
+    border: 2px solid red;
+  
+   
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+
+.item-center{
+    align-items: center;
+}
+.rounded{
+    border-radius: 8px;
+}
+.p-1{
+    padding: 20px;
+}
+.m-1{
+    margin: 5px;
+}
+
+
+
+
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #333;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #555;
+}
+
+body {
+    scrollbar-color: #333 #555;
+}
+
+body {
+    scrollbar-width: thin;
+}
+
+body::-webkit-scrollbar-corner {
+    background-color: #555;
+}
+/* li .info{
+     font-size: 13px;;
+} */

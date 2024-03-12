@@ -56,7 +56,7 @@ body {
 }
 
 .library {
-    min-height: 69vh;
+    min-height: 66vh;
     position: relative;
 }
 
@@ -209,6 +209,7 @@ header>* {
     padding: 10px;
     border-radius: 5px;
     min-height: 26px;
+   
 }
 
 .seekbar {
